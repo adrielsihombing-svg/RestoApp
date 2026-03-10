@@ -1,0 +1,37 @@
+name: flutter_application_bcc
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  animate_do: ^4.2.0
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  http: ^1.6.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/IMG/SS_01.png
+    - assets/IMG/SS_02.png
+    - assets/IMG/SS_03.jpg
+    - assets/IMG/SS_04.png
+    - assets/IMG/SS_05.png
+    - assets/IMG/SS_06.png
+    - assets/IMG/SS_07.png
+    - assets/IMG/Kol.jpg
+    - assets/IMG/Kentang.jpg
+    - assets/IMG/Raciku.jpg
+    - assets/IMG/Seledri.jpg
+    - assets/IMG/wortel.png
+    - assets/IMG/Jamur.png
